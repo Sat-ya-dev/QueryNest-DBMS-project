@@ -1,1 +1,2 @@
-# QA-portal---DBMS-project
+# QA-portal(DBMS-project)
+This project involved designing and implementing a robust Question-Answer (Q&A) portal leveraging SQL for data management. The portal serves as a platform where users can ask questions, provide answers, and interact with each other, fostering a collaborative and informative community. Key functionalities include user authentication, question posting, answer submission, and an efficient search mechanism to retrieve relevant Q&A threads.
